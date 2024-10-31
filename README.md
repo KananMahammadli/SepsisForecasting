@@ -6,6 +6,8 @@ Early sepsis detection is crucial as it has a 6 million per year mortality rate,
 
 The system achieves an F1-score of 0.097 on validation data and 0.116 on test data, close to current short-term sepsis detection scores in the literature, around 0.1.
 
+## [Read the Full Paper](./docs/Early%20Sepsis%20Detection%20Through%20Time-Aware%20Embedding%20and%20Temporal%20Short-term%20Memory-based%20LSTM%20.pdf)
+
 ## Model Training Modes
 The LSTM model has been trained in four different modes, with the latest mode representing the main architecture used in this study, while the first three modes provided valuable intermediate results through research:
 
